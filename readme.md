@@ -1,8 +1,8 @@
 # Mid-term Project: Signals and Systems (Python)
 
 ## Description
-This project shows how to generate and manipulate simple signals using Python and NumPy.  
-It is designed for a **mid-term evaluation** in a Signals and Systems course.
+This project shows how to generate and manipulate simple signals using Python and NumPy  
+It is designed for a **mid-term evaluation** in a Signals and Systems course
 
 The code includes:
 - Functions to generate signals (sine)
