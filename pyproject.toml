@@ -1,13 +1,11 @@
----
 
-# `pyproject.toml`
 ```toml
 [project]
-name = "signals-midterm"
+name = "signals-endterm project"
 version = "0.1.0"
-description = "Mid-term project for Signals and Systems"
+description = "Endterm project for Signals and Systems with Python"
 authors = [
-  { name = "Student", email = "student@example.com" }
+  { name = "Samuel_Archillia_Rodrigues", email = "sarchilliarodr@tudelft.nl" }
 ]
 readme = "README.md"
 license = { text = "MIT" }

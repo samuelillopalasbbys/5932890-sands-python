@@ -1,11 +1,11 @@
-# Mid-term Project: Signals and Systems (Python)
+# Endterm Project: Signals and Systems (Python)
 
 ## Description
 This project shows how to generate and manipulate simple signals using Python and NumPy  
-It is designed for a **mid-term evaluation** in a Signals and Systems course
+It is designed for an **Endterm evaluation** in a Signals and Systems with Python course AESB2122-24
 
 The code includes:
-- Functions to generate signals (sine)
+- Functions to generate signals (sine, cossine, sinc, unit step function, and Dirac-Delta function)
 - Example script to plot and save results
 
 ## Project structure
@@ -16,10 +16,10 @@ The code includes:
 └── pyproject.toml
 
 ## Functions
-### Signal generation
+### Signal generation (example)
 - **create_sine_wave()**: creates a sampled sine wave  
 
-### Utility
+### Utility (example)
 - **plot_signal()**: plots one or more signals and saves the figure
 
 ## How to run
